@@ -15,7 +15,7 @@ def time_format_for_location(utc_with_tz):
 city_value = StringVar()
 
 def showWeather():
-    api_key = "4c26d915aea5da308f18062ac410ee52"  #OpenWeatherMap dashboard
+    api_key = "ur_api_key"  #OpenWeatherMap dashboard
 
     city_name = city_value.get()  #input - city name
 
